@@ -7,7 +7,7 @@ const manifestJson = {
   short_name: "simple notes",
   description: "Click the icon. Add some notes. Done.",
   icons: {
-    48: "icons/icon32.png",
+    48: "icons/icon48.png",
     96: "icons/icon96.png",
   },
   browser_action: {
